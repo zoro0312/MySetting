@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/zoro/Documents/Tools/fps/fps_perf'
+let g:netrw_dirhist_2='/home/zoro/Documents/Tools/fps/fps_test_for_4_car/scripts/core'
